@@ -105,3 +105,7 @@ This runs the unit tests in the test project.
 - Improve the user interface.
 - Expand unit test coverage.
 - Add support for additional AI-powered features.
+
+## Application Screenshot
+
+![AI Email Generator](screenshots/AIEmailGenerator.png)
