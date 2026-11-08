@@ -1,0 +1,15 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# User-specific settings
+*.userosscache
+*.sln.docstates
+
+# Sensitive configuration
+appsettings.Development.json
